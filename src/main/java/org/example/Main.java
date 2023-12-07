@@ -1,6 +1,7 @@
 package org.example;
 
-import org.example.entidades.*;
+import org.example.entidades.factory.*;
+import org.example.entidades.issue.Issue;
 
 public class Main {
     public static void main(String[] args) {

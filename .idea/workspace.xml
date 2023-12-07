@@ -4,26 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8700d7-b02d-44a4-bc38-05f9357496b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Bug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/BugFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Desenvolvimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/DesenvolvimentoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Estoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/EstoriaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Issue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/IssueFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/TestesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/TipoIssue.java" afterDir="false" />
+    <list default="true" id="0f8700d7-b02d-44a4-bc38-05f9357496b4" name="Changes" comment="Firt commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/Bug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/issue/Bug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/BugFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/factory/BugFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/Desenvolvimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/issue/Desenvolvimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/DesenvolvimentoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/factory/DesenvolvimentoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/Estoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/issue/Estoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/EstoriaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/factory/EstoriaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/issue/Issue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/IssueFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/factory/IssueFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/issue/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/TestesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/factory/TestesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entidades/TipoIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/enums/TipoIssue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701898268239</updated>
     </task>
+    <task id="LOCAL-00001" summary="Firt commit">
+      <created>1701913506116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701913506116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firt commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Firt commit" />
   </component>
 </project>

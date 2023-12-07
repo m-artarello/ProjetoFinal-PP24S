@@ -1,4 +1,8 @@
-package org.example.entidades;
+package org.example.entidades.factory;
+
+import org.example.entidades.enums.TipoIssue;
+import org.example.entidades.issue.Issue;
+import org.example.entidades.issue.Teste;
 
 public class TestesFactory implements IssueFactory{
 

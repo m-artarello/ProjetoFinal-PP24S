@@ -1,4 +1,6 @@
-package org.example.entidades;
+package org.example.entidades.issue;
+
+import org.example.entidades.enums.TipoIssue;
 
 public abstract class Issue implements Cloneable{ // Cloneable é uma classe pronta que permite implementar o Prototype
     private TipoIssue tipoIssue;

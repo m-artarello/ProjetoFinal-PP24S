@@ -1,4 +1,6 @@
-package org.example.entidades;
+package org.example.entidades.issue;
+
+import org.example.entidades.enums.TipoIssue;
 
 public class Bug extends Issue{
 

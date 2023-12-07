@@ -1,6 +1,6 @@
-package org.example.entidades;
+package org.example.entidades.enums;
 
-enum TipoIssue {
+public enum TipoIssue {
 
         BUG("Bug"),
         TESTE("Testes"),
