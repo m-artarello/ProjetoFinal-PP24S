@@ -1,4 +1,4 @@
-package org.example.entidades.factory;
+package org.example.factory;
 
 import org.example.entidades.enums.TipoIssue;
 import org.example.entidades.issue.Bug;
